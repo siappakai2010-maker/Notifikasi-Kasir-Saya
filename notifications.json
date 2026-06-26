@@ -2,8 +2,8 @@ Contoh isi notification
 {
   "latest_version": "1.2.0",
   "notification_id": 102,
-  "title": "Pemeliharaan Server",
-  "message": "Tonton youtube sejenak",
+  "title": "Selamat datang!",
+  "message": "Terimakasih telah menggunakan Kasir Saya.",
   "type": "info",
-  "action_url": "youtube.com"
+  "action_url": "admmikah.shop"
 }

@@ -3,7 +3,7 @@ Contoh isi notification
   "latest_version": "1.2.0",
   "notification_id": 102,
   "title": "Pemeliharaan Server",
-  "message": "Halo pengguna! Kami akan melakukan maintenance pada tanggal 28 Juni pukul 23:00 WIB.",
+  "message": "Tonton youtube sejenak",
   "type": "info",
-  "action_url": "https://mikahshop.com/news"
+  "action_url": "youtube.com"
 }

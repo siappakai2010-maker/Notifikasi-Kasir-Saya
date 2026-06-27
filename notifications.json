@@ -1,9 +1,8 @@
-Contoh isi notification
 {
-  "latest_version": "1.2.0",
-  "notification_id": 102,
-  "title": "Selamat datang!",
-  "message": "Terimakasih telah menggunakan Kasir Saya.",
-  "type": "info",
-  "action_url": "admmikah.shop"
+  "latest_version": "1.0.3",
+  "notification_id": 1782582390,
+  "title": "Update Tersedia: Kasir Saya v1.0.3",
+  "message": "Versi baru telah dirilis! Unduh pembaruan terbaru untuk mendapatkan fitur dan perbaikan bug terkini.",
+  "type": "success",
+  "action_url": "https://github.com/siappakai2010-maker/Notifikasi-Kasir-Saya/releases/tag/v1.0.3"
 }

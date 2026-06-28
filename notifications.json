@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.0.7",
-  "notification_id": 1782616723,
-  "title": "Update Tersedia: Kasir Saya v1.0.7",
+  "latest_version": "1.0.8",
+  "notification_id": 1782621051,
+  "title": "Update Tersedia: Kasir Saya v1.0.8",
   "message": "Versi baru telah dirilis! Unduh pembaruan terbaru untuk mendapatkan fitur dan perbaikan bug terkini.",
   "type": "success",
-  "action_url": "https://github.com/siappakai2010-maker/Notifikasi-Kasir-Saya/releases/tag/v1.0.7"
+  "action_url": "https://github.com/siappakai2010-maker/Notifikasi-Kasir-Saya/releases/tag/v1.0.8"
 }
